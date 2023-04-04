@@ -303,6 +303,6 @@ function reveal() {
   //ifrm.style.width = `${w}px`;
   //ifrm.style.height = `${h}px`;
   ifrm.style.border = 'none';
-  document.querySelector('#video').appendChild(ifrm);
+  document.querySelector('#video').appendChild(ifrm); 
 }
 
