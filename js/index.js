@@ -295,7 +295,7 @@ function reveal() {
 
   var ifrm = document.createElement("iframe");
 
-  ifrm.setAttribute("src", "https://itsyogieu.github.io/Don-t-Open/");
+  ifrm.setAttribute("src", "https://itsyogieu.github.io/Don-t-Open/?width=250&height=500ame=embed-codes.jpeg");
    
   function myFunction(){
     document.getElementById("video").style.height="100px";
