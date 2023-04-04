@@ -295,7 +295,7 @@ function reveal() {
 
   var ifrm = document.createElement("iframe");
 
-  ifrm.setAttribute("src", "https://blog.hubspot.com/hs-fs/hubfs/embed-codes.jpeg?width=250&height=500ame=embed-codes.jpeg");
+  ifrm.setAttribute("src", "https://www.mediafire.com/view/0g1udkbw31pec11/yougesh_image.jpg/file");
    
   function myFunction(){
     document.getElementById("video").style.height="100px";
